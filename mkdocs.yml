@@ -1,5 +1,5 @@
-site_name: Mobile Beekeeping Optimization – Nowosądecki County
-repo_url: https://github.com/TWOJ_UZYTKOWNIK/TWOJ_REPOZYTORIUM
+site_name: Mobile Beekeeping Optimization
+repo_url: https://github.com/jakubsumara/beekeeping
 theme:
   name: material
   palette:
