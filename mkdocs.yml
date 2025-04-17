@@ -1,0 +1,24 @@
+site_name: Mobile Beekeeping Optimization – Nowosądecki County
+repo_url: https://github.com/TWOJ_UZYTKOWNIK/TWOJ_REPOZYTORIUM
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: amber
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - Project Objective: project.md
+  - Data Sources: data.md
+  - Analysis Methods: analysis.md
+  - Expected Outcomes: outcomes.md
+  - Contact: contact.md
